@@ -1,5 +1,5 @@
 import React from "react";
-import keerthi from "../assets/keerthi.jpg";
+import keerthiga from "../assets/keerthiga.png";
 import { Link } from "react-scroll";
 
 function Home() {
@@ -18,7 +18,7 @@ function Home() {
         </div>
 
         <div className="card-section">
-          <img src={keerthi} alt="Keerthi" />
+          <img src={keerthiga} alt="Keerthiga" />
         </div>
       </section>
     </>
